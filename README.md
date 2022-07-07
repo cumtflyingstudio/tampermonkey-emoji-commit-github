@@ -1,14 +1,11 @@
-# A template with Svelte + TS + Tailwind + Vite to build UI - Tampermonkey script
+# tampermonkey-emoji-commit-github
 
-To make building Tampermonkey-script faster
+built with [tampermonkey-svelte-template](https://github.com/SoonIter/tampermonkey-svelte-template) to makes commit more formal and vivid.
 
-```shell
-npx degit SoonIter/tempermonkey-svelte-template my-app
-pnpx degit SoonIter/tempermonkey-svelte-template my-app
-```
+[go to Greasy Fork and download](https://greasyfork.org/zh-CN/scripts/447570-tampermonkey-emoji-commit-github)
 
-![](./docs/imgs/howToUse/dist.png)
+![demo1](./docs/imgs/demo1.jpg)
 
-Copy this file to your new Tampermonkey script and write some configs.
+now ,our team can commit formally.
 
-![](./docs/imgs/howToUse/copyTheFile.png)
+[Github](https://github.com/cumtflyingstudio/tampermonkey-emoji-commit-github)
