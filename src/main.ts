@@ -4,6 +4,8 @@ import tailwindBase from './assets/tailwind.css';
 function createContainerInDocument() {
   const container = document.createElement('div');
   container.id = 'tempermonkey-app';
+  container.style.zIndex = "2147483647";
+  container.style.position = "fixed";
   return container;
 }
 // 创建 shadowRoot 环境下的 container 节点（用于挂在 Vue 示例）
