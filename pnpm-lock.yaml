@@ -3,10 +3,8 @@ lockfileVersion: 5.4
 specifiers:
   '@sveltejs/vite-plugin-svelte': ^1.0.0-next.30
   '@tsconfig/svelte': ^3.0.0
-  '@types/overlayscrollbars': ^1.12.1
   autoprefixer: ^10.4.7
   clipboardy: ^3.0.0
-  overlayscrollbars: ^1.13.2
   postcss: ^8.4.14
   svelte: ^3.44.0
   svelte-check: ^2.2.7
@@ -18,12 +16,10 @@ specifiers:
 
 dependencies:
   clipboardy: 3.0.0
-  overlayscrollbars: 1.13.2
 
 devDependencies:
   '@sveltejs/vite-plugin-svelte': 1.0.0-next.49_svelte@3.48.0+vite@2.9.13
   '@tsconfig/svelte': 3.0.0
-  '@types/overlayscrollbars': 1.12.1
   autoprefixer: 10.4.7_postcss@8.4.14
   postcss: 8.4.14
   svelte: 3.48.0
@@ -110,10 +106,6 @@ packages:
 
   /@types/node/18.0.3:
     resolution: {integrity: sha512-HzNRZtp4eepNitP+BD6k2L6DROIDG4Q0fm4x+dwfsr6LGmROENnok75VGw40628xf+iR24WeMFcHuuBDUAzzsQ==}
-    dev: true
-
-  /@types/overlayscrollbars/1.12.1:
-    resolution: {integrity: sha512-V25YHbSoKQN35UasHf0EKD9U2vcmexRSp78qa8UglxFH8H3D+adEa9zGZwrqpH4TdvqeMrgMqVqsLB4woAryrQ==}
     dev: true
 
   /@types/pug/2.0.6:
@@ -840,10 +832,6 @@ packages:
     engines: {node: '>=6'}
     dependencies:
       mimic-fn: 2.1.0
-    dev: false
-
-  /overlayscrollbars/1.13.2:
-    resolution: {integrity: sha512-xk9eJ8fpuh28WABSDpMpOv90aDQk+x5wLeqU4AGbJg56eGLeKxVPQzMxeX6+BM2dsIIOcBj3Fwvn8A0EzhHN3g==}
     dev: false
 
   /parent-module/1.0.1:

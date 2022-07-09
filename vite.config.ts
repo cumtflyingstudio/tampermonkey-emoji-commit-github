@@ -9,7 +9,7 @@ export default defineConfig({
     }),
   ],
   build: {
-    minify:true,
+    minify: false,
     lib: {
       name: 'Tampermonkey',
       fileName: 'Tampermonkey',
